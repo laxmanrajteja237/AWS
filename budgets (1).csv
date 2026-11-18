@@ -1,2 +1,0 @@
-Budget Type,Budget Name,Health status,Billing View ARN,Billing View,Budgeted Cost,Current Cost,Forecasted Cost,Unit,Filters Applied,Budget Period,Start Date,End Date,Current vs Budgeted Costs (Absolute Variance),Forecasted vs Budgeted Costs (Absolute Variance),Current vs Budgeted Costs (% Variance),Forecasted vs Budgeted Costs (% Variance)
-Cost,zero_budget,HEALTHY,arn:aws:billing::793115109823:billingview/primary,Primary View,0.01,0.0,"'-",USD,none,Monthly,11/01/26,06/15/87,-0.01,0,0,0
